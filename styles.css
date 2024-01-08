@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik+Maps");
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  font-family: "Rubik Maps", Cambria, Cochin, Georgia, Times, "Times New Roman",
+    serif;
+  color: grey;
+}
+
+body {
+  background-color: rgb(7, 32, 54);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+input {
+  background-color: whitesmoke;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+#myList {
+  text-align: center;
+}
+
+ul {
+  grid-row-end: auto;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#taskList {
+  text-align: left;
+}
+
+#myBtn {
+  background-color: grey;
+  color: papayawhip;
+  font-size: 30px;
+  border: none;
+  border-radius: 12px;
+  padding: 15x 32px;
+  text-align: center;
+  display: inline-block;
+}
+
+#myUL {
+  color: rgb(120, 120, 120);
+  font-size: 20px;
+}
